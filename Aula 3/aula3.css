@@ -15,7 +15,7 @@ body {
 }
 
 .page-title {
-  color: #ffffff;
+  color: purple;
   margin: 0 0 5px;
 }
 
@@ -51,7 +51,7 @@ button {
   margin-top: 12px;
   padding: 4px 8px;
   border-radius: 10px;
-  background: #ffffff;
+  background: black;
 }
 
 .resultado {
